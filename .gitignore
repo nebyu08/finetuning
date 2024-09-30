@@ -2,4 +2,4 @@
 __pycache__/
 elasticsearch-8.15.1/
 elasticsearch-8.15.1-linux-x86_64.tar.gz
-
+.zshrc.swp
